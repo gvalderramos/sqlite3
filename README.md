@@ -1,4 +1,5 @@
 # [About SQLite](https://www.sqlite.org/about.html) v3.44.2
+https://github.com/gvalderramos/sqlite3/actions/workflows/cmake-multi-platform.yml/badge.svg
 
 SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. The code for SQLite is in the public domain and is thus free for use for any purpose, commercial or private. SQLite is the most widely deployed database in the world with more applications than we can count, including several high-profile projects.
 
