@@ -7,7 +7,7 @@ enable_testing()
 set(SQLITE_SRC src/sqlite3.c src/shell.c)
 
 include_directories(include)
-add_library(sqlite3 SHARED ${SQLITE_SRC})
+add_library(sqlite3 ${SQLITE_SRC})
 
 install(TARGETS sqlite3 DESTINATION lib)
 
